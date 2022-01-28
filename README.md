@@ -16,3 +16,7 @@
 <div> 
 <a href="https://youtube.com/channel/UCDysOrTwPr98vGHXy66HJkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="artz;#0011" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+![Snake animation](https://github.com/artzscript/artzscript/blob/output/github-contribution-grid-snake.svg)
+
+</div> 
