@@ -1,4 +1,4 @@
-## eu sou o Bryan, mas conhecido como ArTz! minha linguagem favorita é py.
+## Eu sou o Bryan, mas conhecido como ArTz! minha linguagem favorita é py.
 
 <div align="center">
   <a href="https://github.com/artzscript">
