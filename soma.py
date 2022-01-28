@@ -1,5 +1,5 @@
 #eu estou comecando progamacao, e essa é a minha primeira script, bem simples porem espero q goste (:
-#ass: Matheus 
+#ass: Bryan
 
 
 nome = input(' vamos lá, qual o seu nome? ') 
@@ -15,7 +15,4 @@ di = num1 // num2
 p = num1 ** num2
 
 print (' a soma é {} a divisão é {:.4f} o produto é {}'.format(a, d, m, ), end=' >>> ')
-print ('a divisão inteira é {} e a potência é {}.'.format(di, p, ))
-
-#\ n é nova linha 
-#end fim da linha 
+print ('a divisão inteira é {} e a potência é {}.'.format(di, p, )) 
